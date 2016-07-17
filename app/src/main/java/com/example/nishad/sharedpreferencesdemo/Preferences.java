@@ -6,7 +6,6 @@ import android.content.SharedPreferences;
 /**
  * Created by Nishad on 14-Jul-16.
  */
-
 public class Preferences {
 
     private SharedPreferences sharedPreferences;
